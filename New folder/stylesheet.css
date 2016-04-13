@@ -1,0 +1,72 @@
+body {
+    background-color: 	black;
+    font-family: helvetica ; 
+    font-weight: bold ;
+    color: white
+}
+
+.tiel {
+    width: 200px ;
+    height: 180px ;
+    margin: 8px ;
+    padding: 20px ;
+    float: left ;
+    vertical-align: middle ;
+}
+
+
+.tiel-double {
+    width: 400px ;
+    height: 180px ;
+    margin: 8px ;
+    padding: 20px ;
+    float: left ;
+    vertical-align: middle ;
+}
+
+.red {
+    background-color: red ;
+}
+
+.tan {
+    background-color: tan ;
+    color: black;
+}
+
+.yellow {
+    background-color: yellow ;
+    color: black;
+}
+
+.green {
+    background-color: green ;
+}
+
+.event-hour {
+    font-style: italic;
+    font-size: 10px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.event-date {
+    margin-top: 40px;
+}
+
+.event-day {
+    font-size: 55pt;
+}
+
+.weather-img {
+   background-image:url("weather.jpg") ;
+   font-size: 20px ;
+   color: black;
+   
+}
+
+#main-contaner {
+    max-width: 700px ;
+    min-width: 600px ;
+    margin: 0 auto;
+    border: 2px solid red ;
+}
